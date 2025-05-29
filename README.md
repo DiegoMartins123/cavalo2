@@ -1,4 +1,4 @@
-#Atividade realizada na aula dia 29-05 criando a implementação do Passeio do Cavalo com backtracking#
+# Atividade realizada na aula dia 29-05 criando a implementação do Passeio do Cavalo com backtracking 
 
 Esta implementação do Passeio do Cavalo utiliza a técnica de tentativa e erro, também conhecida como backtracking, para encontrar um caminho em que o cavalo percorra todas as casas do tabuleiro exatamente uma vez. O tabuleiro é representado por uma matriz de tamanho *n x n*, onde cada posição recebe um número indicando a ordem em que foi visitada.
 
